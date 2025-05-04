@@ -62,3 +62,7 @@ Let us explore basic markdown elements such as:
    
        ![image](https://github.com/user-attachments/assets/f7f3aaa6-b7fe-47af-84a0-3ef7adece768)
 
+
+# Bold Text 
+ * You can create bold text by adding two asterisks or underscores before and after a word, phrase, or a sentence.
+ * Convert the cell below to markdown cell and execute it.
