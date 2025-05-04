@@ -47,11 +47,12 @@ Let us explore basic markdown elements such as:
 
 
 # Headings
-- You can create headings by adding a # sign before a word or a phrase.
+* You can create headings by adding a # sign before a word or a phrase.
 
-There are six levels of headings.
-The number sign # indicate the level of heading for example # Hello corresponds to level 1,the highest level heading.
-Display the following text using six different heading levels.
+  - There are six levels of headings.
+  - The number sign # indicate the level of heading for example # Hello corresponds to level 1,the highest level heading.
+  - Display the following text using six different heading levels.
+  
 1. H1: This is a level 1 Heading
 2. H2: This is a level 2 Heading
 3. H3: This is a level 3 Heading
