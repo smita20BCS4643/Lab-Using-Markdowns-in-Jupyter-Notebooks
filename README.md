@@ -201,6 +201,7 @@ _Convert the code cell below to a markdown cell. Then recreate the unordered lis
 
 
 output 
+
 ![image](https://github.com/user-attachments/assets/f2076974-8ed0-4556-b001-eb69343457e4)
 
 
@@ -218,5 +219,8 @@ _Convert the code cell below to a markdown cell. Then recreate the ordered list 
 2. Second item
 3. Third item
 4. Fourth item
+
+
 output
+
 ![image](https://github.com/user-attachments/assets/cfe343e7-016a-4252-ae16-82031ecb6430)
