@@ -52,10 +52,10 @@ Let us explore basic markdown elements such as:
   - There are six levels of headings.
   - The number sign # indicate the level of heading for example # Hello corresponds to level 1,the highest level heading.
   - Display the following text using six different heading levels.
-  
-1. H1: This is a level 1 Heading
-2. H2: This is a level 2 Heading
-3. H3: This is a level 3 Heading
-4. H4: This is a level 4 Heading
-5. H5: This is a level 5 Heading
-6. H6: This is a level 6 Heading
+    
+    1. H1: This is a level 1 Heading
+    2. H2: This is a level 2 Heading
+    3. H3: This is a level 3 Heading
+    4. H4: This is a level 4 Heading
+    5. H5: This is a level 5 Heading
+    6. H6: This is a level 6 Heading
