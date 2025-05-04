@@ -66,3 +66,13 @@ Let us explore basic markdown elements such as:
 # Bold Text 
  * You can create bold text by adding two asterisks or underscores before and after a word, phrase, or a sentence.
  * Convert the cell below to markdown cell and execute it.
+
+# Execute it as a markdown cell
+**Bold Text using asterisks.**  
+__Bold Text using underscores.__
+
+Before Executing
+![image](https://github.com/user-attachments/assets/9abc38fb-e2e7-423a-8ac2-1533a285721c)
+
+After the Execution
+![image](https://github.com/user-attachments/assets/623f93e3-9fc1-4438-bf20-f124ad6e0733)
