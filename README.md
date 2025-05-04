@@ -59,3 +59,6 @@ Let us explore basic markdown elements such as:
     4. H4: This is a level 4 Heading
     5. H5: This is a level 5 Heading
     6. H6: This is a level 6 Heading
+   
+       ![image](https://github.com/user-attachments/assets/f7f3aaa6-b7fe-47af-84a0-3ef7adece768)
+
