@@ -46,7 +46,7 @@ Let us explore basic markdown elements such as:
 - ItalicText
 
 
-# Headings
+## Headings
 * You can create headings by adding a # sign before a word or a phrase.
 
   - There are six levels of headings.
@@ -63,7 +63,7 @@ Let us explore basic markdown elements such as:
        ![image](https://github.com/user-attachments/assets/f7f3aaa6-b7fe-47af-84a0-3ef7adece768)
 
 
-# Bold Text 
+## Bold Text 
  * You can create bold text by adding two asterisks or underscores before and after a word, phrase, or a sentence.
  * Convert the cell below to markdown cell and execute it.
 
@@ -76,3 +76,8 @@ Before Executing
 
 After the Execution
 ![image](https://github.com/user-attachments/assets/623f93e3-9fc1-4438-bf20-f124ad6e0733)
+
+## Italic Text
+* You can display text in italics by adding a single asterisk or underscore before and after a word, phrase, or a sentence.
+
+* Convert the cell below to markdown cell and execute it.
