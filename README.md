@@ -81,3 +81,14 @@ After the Execution
 * You can display text in italics by adding a single asterisk or underscore before and after a word, phrase, or a sentence.
 
 * Convert the cell below to markdown cell and execute it.
+
+# Execute it as a markdown cell
+*Text in italics using asterisk.*  
+_Text in italics using underscore._
+
+before execution
+![image](https://github.com/user-attachments/assets/94331ec3-9b61-44c3-b49a-d52b3728306b)
+
+after execution
+![image](https://github.com/user-attachments/assets/0c93463b-5d24-4191-a0c1-0733df714aec)
+
