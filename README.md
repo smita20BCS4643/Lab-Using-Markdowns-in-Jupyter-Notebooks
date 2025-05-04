@@ -224,3 +224,68 @@ _Convert the code cell below to a markdown cell. Then recreate the ordered list 
 output
 
 ![image](https://github.com/user-attachments/assets/cfe343e7-016a-4252-ae16-82031ecb6430)
+
+
+# Practice Exercises
+
+### Demonstrate your proficiency in using Markdown in Jupyter notebooks
+
+#### Task 1: Create **H2 level heading** as **Welcome to Python programming** and add the image from the following **url** with alt text as **This is SN labs New Launcher**
+
+_https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/Launcher.png_
+
+
+answer - 
+## Welcome to Python Programming   
+![This is SN labs New Launcher](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/Launcher.png)
+
+![image](https://github.com/user-attachments/assets/fd548d6b-d652-4456-978c-7c09b675b96a)
+
+
+output - 
+
+![image](https://github.com/user-attachments/assets/125248fe-f553-4b4d-8dbb-a6644297236f)
+
+
+#### Task 2: Create a hyperlink to <code>https://www.coursera.org/learn/open-source-tools-for-data-science/home</code> with the **Name of the link** as "Tools For Data Science".
+
+answer
+<a href ="https://www.coursera.org/learn/open-source-tools-for-data-science/home/">Tools For Data Science</a> 
+
+![image](https://github.com/user-attachments/assets/8ea0a173-df56-4de5-a913-8eafd495fc39)
+
+
+output 
+
+![image](https://github.com/user-attachments/assets/487a76f0-84ab-4050-8408-ea5a7af9117f)
+
+
+#### Task 3: Create the following table:
+
+ <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/table.png">
+
+answer 
+
+![image](https://github.com/user-attachments/assets/24332b6b-7ec8-44cd-b0c2-304b5d78bc37)
+
+
+output
+
+![image](https://github.com/user-attachments/assets/e24e0cd6-03a4-48f1-8ce5-8c9fdb795bb2)
+
+
+#### Task 4: Create the following ordered list:
+
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/order1.png">
+
+answer
+
+![image](https://github.com/user-attachments/assets/4a8fa4b2-a034-43de-b926-a2795aca6b2a)
+
+output
+
+![image](https://github.com/user-attachments/assets/51ee3bfd-0af9-4bf9-a459-56d44e3b8ead)
+
+
+## This is the end of Lab
+##### CheatSheet - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
