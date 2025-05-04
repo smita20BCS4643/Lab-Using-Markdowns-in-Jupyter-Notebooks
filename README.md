@@ -37,3 +37,10 @@ the output looks like
 * Check the state of the kernel by clicking on the circle next to it.
 ![image](https://github.com/user-attachments/assets/240476aa-2e70-4552-99d4-7934601e5b71)
 
+# Exercise 2
+Create headings, and add text in bold and italics in Markdown
+Let us explore basic markdown elements such as:
+
+- Headings
+- Bold Text
+- ItalicText
